@@ -7,7 +7,7 @@ convert an existing single frame model to a video pipeline.
 ![alt text](images/lmanet_overview.png)
 **Authors: Matthieu Paul, [Martin Danelljan](https://martin-danelljan.github.io/), Luc Van Gool, Radu Timofte**
 
-\[[**Paper**](https://arxiv.org/abs/2101.01715)\] | \[[**Results Video**](https://drive.google.com/drive/folders/1DaiQgc-v91ZxNvUo5Y6iRqmB4PnhSqTf)\]
+\[[**Paper**](https://arxiv.org/abs/2101.01715)\] | \[[**Results Video**](https://drive.google.com/drive/folders/1E0TM8XqwwFVTtSGbbRg4Bw4Zv0eqmWA7)\]
 
 # Requirements:
 
@@ -45,7 +45,7 @@ Download the following pretrained models and copy them into `trained_models/`.
 Note that you have to create the folder when first clone the repository.
   - [ERFNet weights](https://github.com/Eromera/erfnet_pytorch/tree/master/trained_models)
   - [Resnet weights](https://drive.google.com/drive/folders/1Hrz1wOxOZm4nIIS7UMJeL79AQrdvpj6v)
-  - [PSPNet / LMANet weights](https://drive.google.com/drive/folders/1XrGEyIKh6YmuyZZpyw8zSXuztptm9IEN)
+  - [PSPNet / LMANet weights](https://drive.google.com/drive/folders/1ooWx-6u-E_g__O7hUTDcy7oPFgWGLX4i)
 
 ### Datasets path
 
